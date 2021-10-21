@@ -1,3 +1,7 @@
+# ts-node esm bug
+
+Use Node Version 16.12.0 or 17.x
+
 ```sh
 git clone git@github.com:SimonSiefke/ts-node-esm-bug.git &&
 cd ts-node-esm-bug &&
